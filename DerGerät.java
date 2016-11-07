@@ -9,7 +9,7 @@ public class DerGerät {
 	public static void main(String[] args) {
 		Integer lucas=44;
 		System.out.println(lucas + " ist eine Zahl :D");
-		System.out.println("400000000000000");
+		System.out.println("40000000000000000");
 		
 	
 
